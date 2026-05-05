@@ -57,7 +57,3 @@ node LiveServer.js
 * No data persistence
 
 ---
-
-## 📄 License
-
-MIT
